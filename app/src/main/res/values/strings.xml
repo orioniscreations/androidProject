@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task Scheduler</string>
+    <string name="today_s_tasks">Today\'s Tasks</string>
+    <string name="tomorrow_s_tasks">Tomorrow\'s Tasks</string>
+    <string name="upcoming_tasks">Upcoming Tasks</string>
+    <string name="task_scheduler">Task Scheduler</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="you_have_no_task_to_do_today">You have no tasks to do today</string>
+</resources>
